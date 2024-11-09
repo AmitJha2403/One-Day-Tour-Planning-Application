@@ -4,7 +4,7 @@
 
 ## NAME - Amit Kumar Jha
 ## ROLL NO. - 210110019
-## MAIL ID - amitkjha2403@gmail.com
+## MAIL ID - 210110019@iitb.ac.in
 
 ## Overview
 
