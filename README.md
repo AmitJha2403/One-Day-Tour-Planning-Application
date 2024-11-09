@@ -39,4 +39,8 @@ To run this project, you will need the following:
    ```bash
    https://gnews.io/
    ```
-4. 
+3. Set up Neo4j:
+
+   Install and configure a local Neo4j database.
+
+   Replace the uri and auth details in the connect_to_db() function with your database URI and credentials.
