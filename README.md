@@ -1,6 +1,10 @@
 # AttentionsAI
 
-# Project README
+# Project One-Day Tour Planning Application
+
+# NAME - Amit Kumar Jha
+# ROLL NO. - 210110019
+# MAIL ID - amitkjha2403@gmail.com
 
 ## Overview
 
