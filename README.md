@@ -60,11 +60,11 @@ Make sure to replace the neo4j password with your own.
 
 To run the application:
 
-1. Save the Python script (e.g., `app.py`).
+1. Save the Python script.
 2. Launch the Streamlit app by running:
 
    ```bash
-   streamlit run app.py
+   streamlit run final.py
 3. The app will open in your default web browser.
 
 ## Features
