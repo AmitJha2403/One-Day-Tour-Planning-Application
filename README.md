@@ -12,6 +12,7 @@ Key features:
 - Integration with OpenWeatherMap for weather data and GNews for local news.
 - Use of Neo4j database to store and retrieve user preferences.
 - AI-powered itinerary generation using Ollama.
+- MAP : I tried to implement this feature but was not able to find any good free APIs for this task of mapping the routes of the itinerary
 
 ## Requirements
 
