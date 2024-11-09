@@ -30,6 +30,7 @@ To run this project, you will need the following:
    ```bash
    pip install streamlit neo4j requests ollama
 2. Obtain API keys:
+   
    OpenWeatherMap -
    ```bash
    https://openweathermap.org/api
