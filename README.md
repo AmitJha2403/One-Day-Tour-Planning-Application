@@ -118,11 +118,11 @@ The app maintains a history of interactions and conversation sessions in the sid
 
 ## Code Structure
 
-- **`main.py`**: The main script that runs the Streamlit app. It includes all the functions for user interaction, itinerary generation, and integration with APIs and the Neo4j database.
-- **`neo4j.py`**: Contains functions to connect to the Neo4j database and store/retrieve user preferences.
-- **`weather.py`**: Functions for fetching weather data from OpenWeatherMap.
-- **`news.py`**: Functions for fetching local news from the GNews API.
-- **`ollama.py`**: Functions for interacting with the Ollama API to generate personalized itineraries.
+- **`final.py`**: The main script that runs the Streamlit app. It includes all the functions for user interaction, itinerary generation, and integration with APIs and the Neo4j database.
+- **`neo4j`**: Contains functions to connect to the Neo4j database and store/retrieve user preferences.
+- **`weather`**: Functions for fetching weather data from OpenWeatherMap.
+- **`news`**: Functions for fetching local news from the GNews API.
+- **`ollama`**: Functions for interacting with the Ollama API to generate personalized itineraries.
 
 ## Example Workflow
 
