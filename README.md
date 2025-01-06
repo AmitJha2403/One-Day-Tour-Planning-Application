@@ -1,4 +1,3 @@
-# AttentionsAI
 
 # Project One-Day Tour Planning Application
 
